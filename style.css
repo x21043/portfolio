@@ -73,10 +73,6 @@ h6,
   font-size: 1rem;
 }
 
-output {
-  display: inline-block;
-}
-
 iframe {
   border: 0;
 }
@@ -148,7 +144,6 @@ progress {
   max-width: 100%;
   height: auto;
 }
-
 
 .container,
 .container-fluid,
